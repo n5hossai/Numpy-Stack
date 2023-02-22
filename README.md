@@ -10,6 +10,6 @@ Tutorial from [Deep Learning Prerequisites: The Numpy Stack in Python (V2)](http
   - Solving Linear Systems
   - Generating Data
   
-  The colab file for this Numpy Section can be found can be found [here](https://colab.research.google.com/drive/15GhCD13t6jqrZEgWxSD1KpF7V91UylkF?usp=share_link)
+  The google colab link for this Numpy Section can be found can be found [here](https://colab.research.google.com/drive/15GhCD13t6jqrZEgWxSD1KpF7V91UylkF?usp=share_link)
 
 
